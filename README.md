@@ -30,18 +30,22 @@ Rulează scriptul pentru a descărca și extrage arhiva:
 ```python download_and_extract.py```
 
 3. Descărcarea și salvarea modelului pre-antrenat
+
 Rulează scriptul pentru a descărca și salva modelul pre-antrenat:
 ```python download_and_save_model.py```
 
 5. Pregătirea datelor pentru antrenament
+
 Rulează scriptul pentru a pregăti datele din fișierele .docx:
 ```python prepare_data.py```
 
 6. Antrenarea modelului
+
 Rulează scriptul pentru a antrena modelul:
 ```python train_model.py```
 
 7. Generarea ofertelor
+
 Rulează scriptul pentru a genera oferte pe baza inputului dat:
-bash
+
 ```python generate.py```
