@@ -17,7 +17,6 @@ Acest proiect descarcă, pregătește și antrenează un model AI pentru a gener
 **Instalare**
 
 1. Clonează repository-ul:
-bash
 ```git clone https://github.com/numele_tău/Generare_Oferte.git```
 ```cd Generare_Oferte```
 
@@ -28,22 +27,18 @@ bash
 
 1. Descărcarea și extragerea arhivei
 Rulează scriptul pentru a descărca și extrage arhiva:
-bash
 ```python download_and_extract.py```
 
 3. Descărcarea și salvarea modelului pre-antrenat
 Rulează scriptul pentru a descărca și salva modelul pre-antrenat:
-bash
 ```python download_and_save_model.py```
 
 5. Pregătirea datelor pentru antrenament
 Rulează scriptul pentru a pregăti datele din fișierele .docx:
-bash
 ```python prepare_data.py```
 
 6. Antrenarea modelului
 Rulează scriptul pentru a antrena modelul:
-bash
 ```python train_model.py```
 
 7. Generarea ofertelor
