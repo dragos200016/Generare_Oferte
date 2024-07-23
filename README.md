@@ -6,7 +6,7 @@ Acest proiect descarcă, pregătește și antrenează un model AI pentru a gener
 
 **Cerințe**
 
-- Python 3.x
+- Python 3.10
 - Pachete necesare (instalate prin pip):
   - `requests`
   - `transformers`
