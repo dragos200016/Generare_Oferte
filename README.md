@@ -17,7 +17,7 @@ Acest proiect descarcă, pregătește și antrenează un model AI pentru a gener
 **Instalare**
 
 1. Clonează repository-ul:
-```git clone https://github.com/numele_tău/Generare_Oferte.git```
+```git clone https://github.com/dragos200016/Generare_Oferte.git```
 ```cd Generare_Oferte```
 
 2. Instalează dependențele:
