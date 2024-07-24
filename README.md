@@ -20,7 +20,7 @@ Acest proiect descarcă, pregătește și antrenează un model AI pentru a gener
 ```git clone https://github.com/numele_tău/Generare_Oferte.git```
 ```cd Generare_Oferte```
 
-3. Instalează dependențele:
+2. Instalează dependențele:
 ```pip install requests transformers torch datasets python-docx```
 
 **Utilizare**
@@ -30,22 +30,22 @@ Acest proiect descarcă, pregătește și antrenează un model AI pentru a gener
 Rulează scriptul pentru a descărca și extrage arhiva:
 ```python download_and_extract.py```
 
-3. Descărcarea și salvarea modelului pre-antrenat
+2. Descărcarea și salvarea modelului pre-antrenat
 
 Rulează scriptul pentru a descărca și salva modelul pre-antrenat:
 ```python download_and_save_model.py```
 
-5. Pregătirea datelor pentru antrenament
+3. Pregătirea datelor pentru antrenament
 
 Rulează scriptul pentru a pregăti datele din fișierele .docx:
 ```python prepare_data.py```
 
-6. Antrenarea modelului
+4. Antrenarea modelului
 
 Rulează scriptul pentru a antrena modelul:
 ```python train_model.py```
 
-7. Generarea ofertelor
+5. Generarea ofertelor
 
 Rulează scriptul pentru a genera oferte pe baza inputului dat:
 
