@@ -2,7 +2,7 @@
 
 **Descriere**
 
-Acest proiect descarcă, pregătește și antrenează un model AI pentru a genera oferte pe baza datelor furnizate. Utilizează modele pre-antrenate GPT-2 pentru a procesa exemple de oferte și a crea noi oferte în funcție de cerințele clienților.
+Acest proiect descarcă, pregătește și antrenează un model AI pentru a genera oferte pe baza datelor furnizate. Utilizează modelul pre-antrenat GPT-2 pentru a procesa exemple de oferte și a crea noi oferte în funcție de cerințele clienților.
 
 **Cerințe**
 
