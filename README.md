@@ -26,6 +26,7 @@ Acest proiect descarcă, pregătește și antrenează un model AI pentru a gener
 **Utilizare**
 
 1. Descărcarea și extragerea arhivei
+
 Rulează scriptul pentru a descărca și extrage arhiva:
 ```python download_and_extract.py```
 
